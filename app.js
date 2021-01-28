@@ -81,6 +81,9 @@ io.on("connection", (socket) => {
 				}
 			})
 	})
+	socket.on("clientLogout", (idUserLogin) => {
+		socket.disconnect()
+	})
 
 	socket.on("disconnect", () => {
 		const payload = {
