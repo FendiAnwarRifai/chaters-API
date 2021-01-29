@@ -16,7 +16,6 @@ module.exports = {
         type: Sequelize.STRING(50)
       },
       phone: {
-        allowNull: false,
         type: Sequelize.STRING(13)
       },
       bio: {
