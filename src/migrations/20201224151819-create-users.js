@@ -32,6 +32,18 @@ module.exports = {
       images: {
         type: Sequelize.STRING(100)
       },
+      lat: {
+        type: Sequelize.STRING(100)
+      },
+      lng: {
+        type: Sequelize.STRING(100)
+      },
+      status: {
+        type: Sequelize.STRING(100)
+      },
+      id_socket: {
+        type: Sequelize.STRING(100)
+      },
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE,
