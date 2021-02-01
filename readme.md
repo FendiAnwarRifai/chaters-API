@@ -1,5 +1,5 @@
 # Chaters backend
-This API is for Chaters APP
+This API is for Chaters APP <br>
 Chaters is a messaging application for smartphones. Chaters is a cross-platform messaging application that allows us to exchange messages without credit, because Chaters uses internet data packages. Chaters application uses internet connection 3G, 4G or WiFi for data communication. By using Chaters, we can chat online, share files, exchange photos and more
 
 ## Requirements
