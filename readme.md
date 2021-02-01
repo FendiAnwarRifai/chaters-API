@@ -1,7 +1,6 @@
 # Chaters backend
-Chaters adalah aplikasi pesan untuk ponsel cerdas. Chaters merupakan aplikasi pesan lintas platform yang memungkinkan kita bertukar pesan tanpa pulsa, karena Chaters menggunakan paket data internet. Aplikasi Chaters menggunakan koneksi internet 3G, 4G atau WiFi untuk komunikasi data. Dengan menggunakan WhatsApp, kita dapat melakukan obrolan daring, berbagi file, bertukar foto dan lain-lain.
-
-Chaters is a messaging application for smartphones. Chaters is a cross-platform messaging application that allows us to exchange messages without credit, because Chaters uses internet data packages. Chaters application uses internet connection 3G, 4G or WiFi for data communication. By using WhatsApp, we can chat online, share files, exchange photos and more
+This API is for Chaters APP
+Chaters is a messaging application for smartphones. Chaters is a cross-platform messaging application that allows us to exchange messages without credit, because Chaters uses internet data packages. Chaters application uses internet connection 3G, 4G or WiFi for data communication. By using Chaters, we can chat online, share files, exchange photos and more
 
 ## Requirements
 ```
