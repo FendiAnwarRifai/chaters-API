@@ -1,6 +1,6 @@
 <h1 align="center">Chaters - Backend</h1>
 <p align="center">
-  <img width="250" src="./screenshots/logo.png"/>
+  <img width="250" src="./screenshots/logo.PNG"/>
 </p>
 
 
