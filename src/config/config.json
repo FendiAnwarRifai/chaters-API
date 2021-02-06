@@ -1,9 +1,10 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "chatapp",
-    "host": "127.0.0.1",
+    "username": "fmzQBEc5QZ",
+    "password": "LoB2F8a4hW",
+    "database": "fmzQBEc5QZ",
+    "host": "remotemysql.com",
+    "port":"3306",
     "dialect": "mysql"
   },
   "test": {
