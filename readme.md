@@ -47,7 +47,7 @@ on development
 ## Set up .env file
 Open .env file on your favorite code editor, and copy paste this code below :
 ```
-DB_PORT= 5000
+PORT= 
 
 BASE_URL = [Backend Deploy]
 SECRET_KEY = 
